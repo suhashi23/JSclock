@@ -1,0 +1,13 @@
+.jumbotron{
+    background-color: rgba(95, 175, 175, 0.678);
+    border: 2px solid #000000;
+    border-radius: 26px;
+    padding: 20px 12px;
+}
+.btn{
+    background-color: black;
+    border: grey;
+}
+.btn:hover{
+    background-color: rgb(51, 48, 48);
+}
